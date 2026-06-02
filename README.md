@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ChatGPT%20Image%20Jun%202,%202026,%2001_14_37%20PM.png" alt="Banner Joel Quintana" width="100%" />
+  <img src="./assets/banner.png" />
 </p>
 
 <h1 align="center">Joel Quintana</h1>
